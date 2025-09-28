@@ -11,3 +11,7 @@ div.title{
     text-align: center;
     
 }
+
+#body {
+    padding: 20px;
+}
